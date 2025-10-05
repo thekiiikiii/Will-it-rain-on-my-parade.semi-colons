@@ -75,8 +75,9 @@ The following members of Team Semi Colon contributed to the development and scie
 
 | Name | Role | GitHub Profile |
 | :--- | :--- | :--- |
-| **[VIBHA J]** | Lead Data Scientist / Backend Developer | [github.com/Vibhaj20](https://github.com/Vibhaj20)|
-| **[Keerthi B R]** | Lead Front-End Developer / Visualization | [github.com/thekiiikiii](https://github.com/thekiiikiii) |
-| **[Sahana T H]** | Geospatial Analyst / Report Documentation | [github.com/username3](https://github.com/username3) |
-| **[S Deeksha]** | UI/UX Designer / Climate Modeling Research | [github.com/username4](https://github.com/username4) |
+| **[VIBHA J]** | Lead Data Scientist / Backend Developer | [github.com/Vibha J](https://github.com/Vibhaj20)|
+| **[Keerthi B R]** | Lead Front-End Developer / Visualization | [github.com/Keerthi B R](https://github.com/thekiiikiii) |
+| **[Sahana T H]** | Geospatial Analyst / Report Documentation | [github.com/Sahana T H](https://github.com/GIRL-des) |
+| **[S Deeksha]** | UI/UX Designer / Climate Modeling Research | [github.com/Deeksha S](https://github.com/deekshashashidhar0114-sketch) |
+
 
